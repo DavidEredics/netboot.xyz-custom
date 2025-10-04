@@ -3,9 +3,9 @@
 ### netboot.xyz-custom menu
 ###
 
-:start
-echo Hello world!
-sleep 10
+#:start
+#echo Hello world!
+#sleep 1
 #goto custom_exit
 
 :custom
